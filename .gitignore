@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # add by minys
+/.idea
 .DS_Store
 /data/.DS_Store
 
