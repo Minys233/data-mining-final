@@ -132,6 +132,7 @@ dmypy.json
 /.idea
 .DS_Store
 /data/.DS_Store
-
-# submodule
-
+/data/*.txt
+/torchbert/Data/saved_dict
+/torchbert/bert_pretrain/*
+dov2vec/doc2vec.model

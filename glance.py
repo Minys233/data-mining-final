@@ -34,3 +34,8 @@ while True:
 # fake news: 19186
 # label 0 == true news, label 1 == fake news
 # Precision: 270/302 = 89.40% (myself)
+
+# data stats
+#  min,max, mean, std (length)
+#  1, 1994, 120.999, 99.584
+#  92.36% text have length less than 160
